@@ -17,6 +17,8 @@ class ViewController: UIViewController {
 
     
     //Comment view
+    
+    // View did disappear comment
 
 }
 
